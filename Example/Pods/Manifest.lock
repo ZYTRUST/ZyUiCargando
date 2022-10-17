@@ -1,0 +1,16 @@
+PODS:
+  - ZyUICargando (0.1.0)
+
+DEPENDENCIES:
+  - ZyUICargando (from `../`)
+
+EXTERNAL SOURCES:
+  ZyUICargando:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZyUICargando: 3764c83a55e25a51afe52e1958480d0bab38ffa9
+
+PODFILE CHECKSUM: 837f621b31469db3f378bc3985394faf444e2e78
+
+COCOAPODS: 1.11.3
